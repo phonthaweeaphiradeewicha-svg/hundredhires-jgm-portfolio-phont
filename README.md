@@ -1,1 +1,33 @@
-# hundredhires-jgm-portfolio-phont.
+# hundredhires-jgm-portfolio-phont - Portfolio Project Step 1
+## Tools Installed
+- **Cursor IDE** - Downloaded from cursor.com and installed on Windows
+- **Git** - Downloaded from https://git-scm.com/install/windows and installed on Windows
+- **Claude Code** (by Anthropic) - Installed via Cursor Extensions Marketplace
+- **Codex** (by openai) - Installed via Cursor Extensions Marketplace
+
+## Steps Completed 
+1. Installed Cursor IDE on Windows -> Open the installed program.
+2. Navigate from **Cursor Agents (White Screen)** to the **Cursor Editor (Black Screen)**.
+3. Opened the **Extensions panel** in the Cursor Editor.
+4. Searched and installed **Codex extension** in the Cursor Editor.
+5. Signed in to **GitHub** official website.
+6. Created a public GitHub repository -> Click the green button called **'Code'** -> Copy the clone url.
+7. Installed **Git** on Windows.
+8. Navigate to the Cursor Agents -> Select **'File'** -> Select **'New Terminal'** -> **Powershell** command prompt appears on the right.
+9. Cloned the repository by writing 
+**"git clone [clone url from GitHub]"** on the powershell.
+10. Back to the Cursor Agents -> Select **'File'** -> Select the cloning folder inside the drive -> Tab on the file named **'README.md'** and type answers on this file based on the given instructions.
+11. Back to the Cursor Agents -> Write this on the powershell to commit & push:
+" git add README.md
+  git commit -m "Add portfolio README for Step 1"
+  git push origin main "
+
+## Issues Encountered & How I Solved Them
+- **Ctrl+Shift+X** shortcut didn't open Extensions, so I solved by navigating through the View menu instead.
+- Windows Firewall promopted a security alert for Cursor, then I researched to ensure the safeness, so I clicked 'Allow'.
+- I could not differentiate between the **Cursor Agents** and the **Cursor Editor**; Did not know where the aimed features are located in which of these cursors at first, so I calmly and carefully looked at both Cursor pages to find the features I want to. 
+- The prompt on the powershell did not work, so I needed to download and install **Git**. 
+- Had a trouble to rename the reprository on **GitHub**, but I clicked twice, so it worked. 
+- When I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
+
+
