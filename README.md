@@ -16,7 +16,7 @@
 8. Navigate to the Cursor Agents -> Select **'File'** -> Select **'New Terminal'** -> **Powershell** command prompt appears on the right.
 9. Cloned the repository by writing 
 **"git clone [clone url from GitHub]"** on the powershell.
-10. Back to the Cursor Agents -> Select **'File'** -> Select the cloning folder inside the drive -> Tab on the file named **'README.md'** and type answers on this file based on the given instructions.
+10. Back to the Cursor Agents -> Select **'File'** -> Select the cloning folder inside the drive -> Click on the file named **'README.md'** and type answers based on the given instructions.
 11. Back to the Cursor Agents -> Write these prompts separately on the powershell to commit & push:
     - `git add README.md`
     - `git commit -m "Add portfolio README for Step 1"`
@@ -24,10 +24,10 @@
 
 ## Issues Encountered & How I Solved Them
 - **Ctrl+Shift+X** shortcut didn't open Extensions, so I solved this issue by navigating through the View menu instead.
-- Windows Firewall prompted a security alert for Cursor, then I researched to ensure the safeness, so I clicked **'Allow'**.
+- Windows Firewall prompted a security alert for Cursor, then I researched to ensure it was safe, so I clicked **'Allow'**.
 - I did not know where the aimed features are located in which of these cursors at first, so I calmly and carefully looked at both Cursor pages to find the features I want to use. 
 - The prompt on the powershell did not work, so I needed to download and install **Git**. 
-- I had a trouble to rename the repository on **GitHub**, but I clicked twice, so it worked. 
+- I had trouble to rename the repository on **GitHub**, but I clicked twice, so it worked. 
 - During the time that I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
 
 
