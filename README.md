@@ -9,7 +9,7 @@
 1. Installed Cursor IDE on Windows -> Open the installed program.
 2. Navigate from **Cursor Agents (White Screen)** to the **Cursor Editor (Black Screen)**.
 3. Opened the **Extensions panel** in the Cursor Editor.
-4. Searched and installed **Codex extension** in the Cursor Editor.
+4. Searched and installed **Claude Code** and **Codex** in the Cursor Editor.
 5. Signed in to https://github.com/.
 6. Created a public GitHub repository -> Click the green button called **'Code'** -> Copy the clone url.
 7. Installed **Git** on Windows.
@@ -23,11 +23,11 @@
     - `git push origin main`
 
 ## Issues Encountered & How I Solved Them
-- **Ctrl+Shift+X** shortcut didn't open Extensions, so I solved by navigating through the View menu instead.
-- Windows Firewall promopted a security alert for Cursor, then I researched to ensure the safeness, so I clicked 'Allow'.
-- I could not differentiate between the **Cursor Agents** and the **Cursor Editor**; Did not know where the aimed features are located in which of these cursors at first, so I calmly and carefully looked at both Cursor pages to find the features I want to. 
+- **Ctrl+Shift+X** shortcut didn't open Extensions, so I solved this issue by navigating through the View menu instead.
+- Windows Firewall prompted a security alert for Cursor, then I researched to ensure the safeness, so I clicked **'Allow'**.
+- I did not know where the aimed features are located in which of these cursors at first, so I calmly and carefully looked at both Cursor pages to find the features I want to use. 
 - The prompt on the powershell did not work, so I needed to download and install **Git**. 
-- Had a trouble to rename the reprository on **GitHub**, but I clicked twice, so it worked. 
-- When I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
+- I had a trouble to rename the repository on **GitHub**, but I clicked twice, so it worked. 
+- During the time that I got completely stuck, I used Claude AI to help diagnose the issue and find solutions, then verified and applied the fixes myself.
 
 
