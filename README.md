@@ -18,9 +18,9 @@
 **"git clone [clone url from GitHub]"** on the powershell.
 10. Back to the Cursor Agents -> Select **'File'** -> Select the cloning folder inside the drive -> Tab on the file named **'README.md'** and type answers on this file based on the given instructions.
 11. Back to the Cursor Agents -> Write these prompts separately on the powershell to commit & push:
-**git add README.md**
-**git commit -m "Add portfolio README for Step 1"**
-**git push origin main**
+    - `git add README.md`
+    - `git commit -m "Add portfolio README for Step 1"`
+    - `git push origin main`
 
 ## Issues Encountered & How I Solved Them
 - **Ctrl+Shift+X** shortcut didn't open Extensions, so I solved by navigating through the View menu instead.
